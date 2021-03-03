@@ -1,0 +1,13 @@
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\obj\Debug\netcoreapp3.1\Console.Bank.csprojAssemblyReference.cache
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\obj\Debug\netcoreapp3.1\Console.Bank.AssemblyInfoInputs.cache
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\obj\Debug\netcoreapp3.1\Console.Bank.AssemblyInfo.cs
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\obj\Debug\netcoreapp3.1\Console.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\bin\Debug\netcoreapp3.1\Console.Bank.exe
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\bin\Debug\netcoreapp3.1\Console.Bank.deps.json
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\bin\Debug\netcoreapp3.1\Console.Bank.runtimeconfig.json
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\bin\Debug\netcoreapp3.1\Console.Bank.runtimeconfig.dev.json
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\bin\Debug\netcoreapp3.1\Console.Bank.dll
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\bin\Debug\netcoreapp3.1\Console.Bank.pdb
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\obj\Debug\netcoreapp3.1\Console.Bank.dll
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\obj\Debug\netcoreapp3.1\Console.Bank.pdb
+C:\Users\Josivaldo\source\repos\Console.Bank\Console.Bank\obj\Debug\netcoreapp3.1\Console.Bank.genruntimeconfig.cache
